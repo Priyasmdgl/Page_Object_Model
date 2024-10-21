@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Profile page">
+<test name = "Update profile">
+<classes>
+<class name="php_Site.loginPage"></class>
+<class name="php_Site.profilePage"></class>
+</classes>
+</test>
+</suite>

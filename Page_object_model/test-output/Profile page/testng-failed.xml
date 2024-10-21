@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Profile page]">
+  <test name="Update profile(failed)">
+    <classes>
+      <class name="php_Site.profilePage">
+        <methods>
+          <include name="profile_Page"/>
+        </methods>
+      </class> <!-- php_Site.profilePage -->
+    </classes>
+  </test> <!-- Update profile(failed) -->
+</suite> <!-- Failed suite [Profile page] -->
